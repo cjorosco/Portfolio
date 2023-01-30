@@ -1,3 +1,8 @@
+## Welcome to the my Portfolio.  
+
+Below is a summation of the 10 projects you will find in this repo.
+
+
 ## 1. Computer Network Traffic Anomalies
 
 The objective of this project is to detect anomalous north/south computer network traffic. North/South traffic refer to network communications either originating from within a network to external devices or vice versa. The anomalous traffic is traffic patterns that are outliers from the sample population. The intent of the project is not to discover the type of anomalous traffic but to use clustering models to group the outliers and to use the library Anomalize to detect anomalies in time-series data.
