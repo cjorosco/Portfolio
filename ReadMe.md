@@ -19,7 +19,7 @@ Texas has 254 counties with most of the population in urban counties. The study 
 
 ## 3. Lung Cancer Study
 
-The purpose of this study is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an AP. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
+The purpose of this study is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an API. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
 
 ## 4. Primate Behavioral Prediction
 
