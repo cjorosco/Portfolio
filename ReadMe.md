@@ -28,24 +28,35 @@ The study uses network libraries to display the primate interactions and behavio
 
 ## 5. Recidivism Prediction
 
-The intent of this study is to produce a model capable of predicting the possibility of aconvicted person recommitting the same offense or another criminal offense. The study uses adataset from the Iowa Department of Corrections. This dataset contains recidivism rates anddemographics from 2010-2018. After cleaning the data and conducting feature selection, thefinal dataset was used as input to three different models. The models are Random Forest,Logistics Regression, Naive Bayes, and AdaBoost.
+The intent of this study is to produce a model capable of predicting the possibility of a
+convicted person recommitting the same offense or another criminal offense. The study uses a
+dataset from the Iowa Department of Corrections. This dataset contains recidivism rates and
+demographics from 2010-2018. After cleaning the data and conducting feature selection, the
+final dataset was used as input to three different models. The models are Random Forest,
+Logistics Regression, Naive Bayes, and AdaBoost.
 
-##6. Fly or Drive Study
+## 6. Fly or Drive Study
 
 The Fly or Drive Study is a demonstration of various Data Visualization techniques. The study poses the question “Which is Safer – Flying or Driving”. A comparison of airline versus vehicular travel statistics is the basis for the study with these statistics being displayed in engaging and informative visualization techniques. These techniques include using infographics and area charts comparisons. The objective of the study is to illustrate the safety of flying versus travel by car.
 
-##7. Text Generation
+## 7. Text Generation
 
 The Text Generation project ingests a text file and generates new text from the existing corpus. The project uses Keras libraries to pre-process the text file, create sequences to input into the Keras model, trains the model, and has the model generate new text.
 
 
-##8. Chronic Kidney Disease Prevalence and Awareness
+## 8. Chronic Kidney Disease Prevalence and Awareness
 
-The Chronic Kidney Disease study attempts to answer the questions should CKD be included asa major leading cause of death and is the lack of dissemination due to lack of awareness of thedisease or the insufficient active monitoring of patients with high risk factors? Data shows thatChronic Kidney Disease (CKD) is on the rise and affects 1 out 3 adults with diabetes and 1 out of5 adults with high blood pressure (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b).But CKD doesn’t seem to have the same kind of wide-spread attention as diabetes and highblood pressure.
+The Chronic Kidney Disease study attempts to answer the questions should CKD be included as
+a major leading cause of death and is the lack of dissemination due to lack of awareness of the
+disease or the insufficient active monitoring of patients with high risk factors? Data shows that
+Chronic Kidney Disease (CKD) is on the rise and affects 1 out 3 adults with diabetes and 1 out of
+5 adults with high blood pressure (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b).
+But CKD doesn’t seem to have the same kind of wide-spread attention as diabetes and high
+blood pressure.
 
 
-##9. Chronic Kidney Disease Prediction
+## 9. Chronic Kidney Disease Prediction
 
 Using the risk factors associated with Chronic Kidney Disease, this project uses 3 different machine learning models to predict the possibility of a person being diagnosed with Chronic Kidney Disease.  The models usd for this study include Random Forest Classifier, AdaBoost Classifier, and XgBoost Classifier. 
 
-##10. Time-to-Event Analysis
+## 10. Time-to-Event Analysis
