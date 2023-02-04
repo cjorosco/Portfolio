@@ -1,6 +1,6 @@
-											Lung Cancer EDA Project
+							###Lung Cancer EDA Project
 											
-											![Lung_Cancer](lungs.jpg)[Lung_Cancer]
+											
 											
 	This is the ReadMe file for the Lung Cancer EDA project.  The purpose of the project is to use an API to
 	retrieve the data and employ various Pandas dataframe reshaping methods to aggregate fields and compute
