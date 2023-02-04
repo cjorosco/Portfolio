@@ -63,3 +63,5 @@ Using the risk factors associated with Chronic Kidney Disease, this project uses
 The Fly or Drive Study is a demonstration of various Data Visualization techniques. The study poses the question “Which is Safer – Flying or Driving”. A comparison of airline versus vehicular travel statistics is the basis for the study with these statistics being displayed in engaging and informative visualization techniques. These techniques include using infographics and area charts comparisons. The objective of the study is to illustrate the safety of flying versus travel by car.
 
 ## 10. Storyboard
+
+The Predictive Analytics:xxxx article began as a storyboard and evolved in a paper written for a journal.
