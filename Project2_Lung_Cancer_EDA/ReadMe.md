@@ -1,7 +1,7 @@
 
 ### Lung Cancer EDA Project
 
-![screen](https://github.com/cjorosco/Portfolio/blob/main/Project2_Lung_Cancer_EDA/lungs.jpg)
+## ![screen](https://github.com/cjorosco/Portfolio/blob/main/Project2_Lung_Cancer_EDA/lungs.jpg)
 											
 											
 The purpose of this project is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an API. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
