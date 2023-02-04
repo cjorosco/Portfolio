@@ -6,3 +6,5 @@ The purpose of this study is to demonstrate several dataframe manipulation metho
 
 The code is written in Python version 3.8 and uses the Pandas libraries to manipulate the dataframes. Initally, an attempt was made to access the CDC DB using the Socrata API and the soapy wrapper provided on the CDC website , https://data.cdc.gov/stories/s/Overview-of-Enablement-Resources/kzjj-25rr/.  There was an error so the actual call to the endpoint uses the Requests library. The the URL for the endpoint is : 
 'https://chronicdata.cdc.gov/resource/u9ek-bct3.json?&$limit=5000&yearstart=2010&question=Cancer of the lung and bronchus, mortality'.
+
+The program is contained and exexuted within a Jupyter Notebook.  This file is 
