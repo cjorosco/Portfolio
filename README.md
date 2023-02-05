@@ -61,9 +61,9 @@ Using the risk factors associated with Chronic Kidney Disease, this project uses
 
 The Fly or Drive project is a demonstration of various Data Visualization techniques. The project poses the question “Which is Safer – Flying or Driving”. A comparison of airline versus vehicular travel statistics is the basis for the project with these statistics being displayed in engaging and informative visualization techniques. These techniques include using infographics and area charts comparisons. The objective of the project is to illustrate the safety of flying versus travel by car.
 
-## 10. Predictive Analytics in Healthcare
+## 10. Predictive Analytics: Healthcare Benefits and Consequences
 
-The Predictive Analytics in Healthcare is a project that addresses the role that Predictive Analytics has in three of the top deadliest diseases affecting Americans today.  These being Cancer, Alzheimer's, and Heart Disease. The project's objectives are to:
+The Predictive Analytics: Healthcare Benefits and Consequences is a paper that addresses the role that Predictive Analytics has in three of the top deadliest diseases affecting Americans today.  These being Cancer, Alzheimer's, and Heart Disease. The project's objectives are to:
 
 * Identify the positive impacts and contributions of Predictive Analytics in combating these diseases.
 * Identify ethical and privacy issues with the prediction of the diseases.
