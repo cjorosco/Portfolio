@@ -1,4 +1,4 @@
-## Welcome to the my Portfolio.  
+## Welcome to my Portfolio.  
 
 Below is a summation of the 10 projects you will find in this repo.
 
