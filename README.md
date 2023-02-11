@@ -3,7 +3,7 @@
 Below is a summation of the 10 projects you will find in this repo.
 
 
-## 1.  Study of the Texas County Health Rankings for 2020
+## 1.  Study of the Texas County Health Statistics for 2020
 
 This project is a comparison of factors between rural and urban counties:
 
