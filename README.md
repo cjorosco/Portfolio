@@ -13,7 +13,7 @@ This project is a comparison of factors between rural and urban counties:
 
 Texas has 254 counties with most of the population in urban counties. The project uses High School Graduation rates, 3rd Grade Math and Reading scores, Physician and uninsured health counts per county, Single parent household percentages, and quality of life factors to include life expectancy, food insecurity, housing cost burdens, poor health indicators, and insufficient sleep rates.
 
-## 2. Lung Cancer Study
+## 2. Cancer EDA 
 
 The purpose of this project is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an API. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
 
