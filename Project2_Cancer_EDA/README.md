@@ -1,14 +1,14 @@
 
-### Lung Cancer and Cancer Deaths EDA Project
+## Lung Cancer and Cancer Deaths EDA Project
 
-**Objective:**
+### Objective:
 																			
 The purpose of these projects is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an API. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
 
-**Results:**
+### Results:
 
 
-**Technical Specifications:**
+### Technical Specifications:
 
 
 The code is written in Python version 3.8 and uses the Pandas libraries to manipulate the dataframes. Initally, an attempt was made to access the CDC DB using the Socrata API and the soapy wrapper provided on the CDC website , https://data.cdc.gov/stories/s/Overview-of-Enablement-Resources/kzjj-25rr/.  There was an error so the actual call to the endpoint uses the Requests library. The the URL for the endpoint is : 
