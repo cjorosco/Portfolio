@@ -8,7 +8,7 @@
 
 
 
-### Technical Specifications
+### Technical Specifications:
 
 
 
