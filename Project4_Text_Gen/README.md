@@ -9,7 +9,7 @@
 
 
 
-### Technical Specifications
+### Technical Specifications:
 
 * Text_Gen_notebook.ipynb
 * Text_Gen_notebook.pdf
