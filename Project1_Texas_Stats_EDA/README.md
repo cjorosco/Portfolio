@@ -23,7 +23,7 @@ The results show:
   high school graduation, Math and Reading levels.
 * No outliers were detected
 
-## Technical Specifications:
+### Technical Specifications:
 
 The application is written in Python version 3.7 and uses the Pandas library modules for the majority of the EDA. Additionally, the graphs are created using Matplotlib and Seaborn. The directory for this project includes 3 file as listed below. 
 
