@@ -1,10 +1,15 @@
-## ReadMe file
+
+## Project Name
+
+### Objective:
 
 
-Narrative
+### Results:
 
 
-Files are:
+
+
+### Technical Specifications
 
 * Text_Gen_notebook.ipynb
 * Text_Gen_notebook.pdf
