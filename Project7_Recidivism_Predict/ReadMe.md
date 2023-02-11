@@ -1,9 +1,17 @@
 ## Recidivism Prediction Project
 
+### Objective:
 
-Narrative
 
-Files are:
+### Results:
+
+
+
+
+### Technical Specifications
+
+
+
 
 * Recidivism_Predict.ipynb
 * Recidivism_Predict_report.pdf
