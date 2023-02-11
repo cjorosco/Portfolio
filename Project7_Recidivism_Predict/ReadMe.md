@@ -5,5 +5,6 @@ Narrative
 
 Files are:
 
-* Predict_Recidivism.ipynb
-* Predict_Recidivism.pdf
+* Recidivism_Predict.ipynb
+* Recidivism_Predict_report.pdf
+* Recidivism_Predict_notebook.pdf
