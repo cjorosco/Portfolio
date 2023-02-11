@@ -17,9 +17,7 @@ Texas has 254 counties yet most of the population is concentrated in Austin, Dal
 * One reason for high graduation rate is standardized testing and a push to pass the test.
 * According to the results Rural schools are just as good as Urban schools when it comes to
   high school graduation, Math and Reading levels.
-* Nice to have: How many graduates went on to college.
-* Should have: Used the “Some college” variable
-* No outliers detected
+* No outliers were detected
 
 **Technical Specifications:** The application is written in Python version 3.7 and uses the Pandas library modules for the majority of the EDA. Additionally, the graphs are created using Matplotlib and Seaborn. The directory for this project includes 3 file as listed below. 
 
