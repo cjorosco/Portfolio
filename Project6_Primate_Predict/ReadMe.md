@@ -1,8 +1,16 @@
 ## Primate Prediction
 
+### Objective:
 
-Narrative
 
-Files are:
+### Results:
+
+
+
+
+### Technical Specifications
+
+
+
 * Primate_Predict.ipynb
 * Primate_Predict.pdf
