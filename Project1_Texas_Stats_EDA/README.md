@@ -1,6 +1,6 @@
 ## Project1 Texas Statistics EDA 
 
-![Texas_Flag]()
+![Texas_Flag]("texas.jpg"style=" width:30px ; height:30px ")
 
 ### Objective:
 
