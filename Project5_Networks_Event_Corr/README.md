@@ -1,6 +1,6 @@
-## Network Venet Correlation Using Clusterting Methods
+## Network Events Correlation Using Clusterting Methods
 
-<img src="./network.jp" 
+<img src="./network.jpg" 
  width="400" height="300" border="10" />
 
 ### Objective:
