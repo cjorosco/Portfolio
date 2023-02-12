@@ -1,7 +1,8 @@
 
 ## Lung Cancer and Cancer Deaths EDA Project
 
-<img src="Project2_Cancer_EDA/Cancer.jpeg" width="100",height="100">
+<img src="./Cancer.jpeg" 
+ width="240" height="200" border="10" />
 
 ### Objective:
 																			
