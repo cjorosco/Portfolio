@@ -1,10 +1,11 @@
-<div style="text-align: center;">
-## Project1 Texas Statistics EDA 
 
+
+
+<h1 style="text-align: center;">Project1 Texas Statistics EDA</h1>
 
 <img src="./flag.jpg" 
  width="240" height="180" border="10" />
- </div>
+
 
 ### Objective:
 
