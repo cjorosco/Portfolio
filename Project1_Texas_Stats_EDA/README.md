@@ -1,10 +1,6 @@
 ## Project1 Texas Statistics EDA 
 
 
-<img src="https://github.com/cjorosco/Portfolio/edit/main/Project1_Texas_Stats_EDA/flag.jpg"
-     style="display: inline-block; auto; max-width: 100px">
-
-
 ### Objective:
 
 The Texas Statistics EDA project explores the State of Texas 2020 Health and Demographic Statistics. The objective for the EDA is to answer the following questions:
