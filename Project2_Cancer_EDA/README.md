@@ -1,7 +1,7 @@
 
 ## Lung Cancer and Cancer Deaths EDA Project
 
-<img src="Project_Texas_Stats_EDA/Cancer.jpeg" width="100",height="100">
+<img src="Project2_Cancer_EDA/Cancer.jpeg" width="100",height="100">
 
 ### Objective:
 																			
