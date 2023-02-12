@@ -1,9 +1,7 @@
 ## Project1 Texas Statistics EDA 
 
 
-<div style="width:30px ; height:30px">
-![Texas_Flag](/Project1_Texas_Stats_EDA/texas.jpg)
- <div>
+![Texas_Flag](/Project1_Texas_Stats_EDA/texas.jpg, style="width:30px ; height:30px")
 
 ### Objective:
 
