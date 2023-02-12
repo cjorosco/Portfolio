@@ -1,7 +1,7 @@
 ## Network Venet Correlation Using Clusterting Methods
 
-<img src="./network.png" 
- width="600" height="600" border="10" />
+<img src="./network.jp" 
+ width="400" height="300" border="10" />
 
 ### Objective:
 
