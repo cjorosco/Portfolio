@@ -1,7 +1,7 @@
 ## Project Name
 
 <img src="./ckd.jpg" 
- width="300" height="100" border="10" />
+ width="500" height="200" border="10" />
 
 ### Objective:
 
