@@ -1,8 +1,8 @@
 
 ## Text Generation
 
-<img src="./ckd.png" 
- width="600" height="250" border="10" />
+<img src="./text_gen.png" 
+ width="600" height="300" border="10" />
 
 ### Objective:
 
