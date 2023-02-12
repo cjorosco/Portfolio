@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/cjorosco/Portfolio/edit/main/Project1_Texas_Stats_EDA/flag.jpg"
-     style="display: inline-block; margin: 0 auto; max-width: 100px">, width="100",height="100">
+     style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 
 ### Objective:
