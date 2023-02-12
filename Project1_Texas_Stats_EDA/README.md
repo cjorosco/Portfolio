@@ -1,7 +1,9 @@
 ## Project1 Texas Statistics EDA 
 
+<div style="text-align: center;">
 <img src="./flag.jpg" 
  width="240" height="180" border="10" />
+ </div>
 
 ### Objective:
 
