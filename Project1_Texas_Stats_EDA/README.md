@@ -1,7 +1,7 @@
 ## Project1 Texas Statistics EDA 
 
 
-<img src="Project_Texas_Stats_EDA/flag.jpg" width="100",height="100">
+<img src="https://github.com/cjorosco/Portfolio/edit/main/Project1_Texas_Stats_EDA)/flag.jpg" width="100",height="100">
 
 
 ### Objective:
