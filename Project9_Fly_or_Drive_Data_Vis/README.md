@@ -1,6 +1,6 @@
  ## Fly or Drive Project
  
- <img src="./flag.jpg" 
+ <img src="./fly_drive.png" 
  width="500" height="300" border="10" />
 
 ### Objective:
