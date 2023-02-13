@@ -1,6 +1,6 @@
 ## Network Events Correlation Using Clusterting Methods
 
-<img src="./network.jpg" 
+<img src="./cluster.png" 
  width="400" height="300" border="10" />
 
 ### Objective:
