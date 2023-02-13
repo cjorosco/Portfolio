@@ -1,7 +1,7 @@
 ## Recidivism Prediction 
 
-<img src="./flag.jpg" 
- width="240" height="180" border="10" />
+<img src="./recid.png" 
+ width="700" height="100" border="10" />
 
 ### Objective:
 
