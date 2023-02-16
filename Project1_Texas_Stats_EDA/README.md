@@ -32,8 +32,10 @@ The results show:
 
 ### Technical Specifications:
 
-The application is written in Python version 3.7 and uses the Pandas library modules for the majority of the EDA. Additionally, the graphs are created using Matplotlib and Seaborn. The directory for this project includes 3 file as listed below. 
+The application is written in Python version 3.7 and uses the Pandas library modules for the majority of the EDA. Additionally, the graphs are created using Matplotlib and Seaborn. The project contains 3 files with the Tx_Stats_EDA_notebook.ipynb containing the code and the outputs in a Jupyter Notebook. Tx_Stats_EDA_notebook.pdf is a copy of the notebook in a PDF format.  Tx_Stats_EDA-briefing.pdf is a copy of the Power Point briefing slides in a PDF format.
 
-* Tx_Stats_EDA-briefing.pdf - Power Point briefing in PDF format.
-* Tx_Stats_EDA_notebook.ipynb - Jupyter Notebook with the code.
-* Tx_Stats_EDA_notebook.pdf - PDF version of the Jupyter Notebook.
+### Files:
+
+* [Tx_Stats_EDA-briefing](./Tx_Stats_EDA-briefing.pdf)
+* [Tx_Stats_EDA_notebook](./Tx_Stats_EDA_notebook.ipynb)
+* [Tx_Stats_EDA_notebook in PDF format](./Tx_Stats_EDA_notebook.pdf)
