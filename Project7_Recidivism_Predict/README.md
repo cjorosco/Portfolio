@@ -21,7 +21,7 @@ The project files are listed below.  Recidivism_Predict.ipynb is the Notebook wi
 
 * [Recidivism_Predict_Notebook](./Recidivism_Predict.ipynb)
 * [Recidivism_Predict_Report](./Recidivism_Predict_report.pdf)
-* [Recidivism_Predict_Notebook PDF format](./Recidivism_Predict_notebook.pdf)
+* [Recidivism_Predict_Notebook in PDF format](./Recidivism_Predict_notebook.pdf)
 * [Recidivism_Predict_Briefing in PDF format](./Recid_Predict_Briefing.pdf)
 
 
