@@ -19,3 +19,4 @@
 * Recidivism_Predict.ipynb
 * Recidivism_Predict_report.pdf
 * Recidivism_Predict_notebook.pdf
+* Recid_Predict_Briefing.pdf
