@@ -20,9 +20,9 @@ The program is written in Python 3.8 and uses Jupyter Notebooks as the Interativ
 The project files are listed below.  Recidivism_Predict.ipynb is the Notebook with the doe and the outputs.  The Recidivism_Predict_report.pdf is a report describing the Backgrounda nd Montivation for the project, a description of the methods and anaysis, and a discussion of the results with recommendations for further study.  Recid_Predict_Briefing.pdf is a copy of the Poer Point briefing slides.  Lastly the Recidivism_Predict_notebook.pdf is a copy of the Notebook in PDF format.
 
 * [Recidivism_Predict_Notebook](./Recidivism_Predict.ipynb)
-* [Recidivism_Predict_report](./Recidivism_Predict_report.pdf)
+* [Recidivism_Predict_Report](./Recidivism_Predict_report.pdf)
 * [Recidivism_Predict_Notebook PDF format](./Recidivism_Predict_notebook.pdf)
-* Recidivism_Predict_Briefing in PDF format.pdf(./Recid_Predict_Briefing.pdf)
+* [Recidivism_Predict_Briefing in PDF format](./Recid_Predict_Briefing.pdf)
 
 
 
