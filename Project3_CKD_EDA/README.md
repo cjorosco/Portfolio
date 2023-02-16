@@ -1,7 +1,7 @@
 ## Chronic Kidney Disease Prevalence and Awareness EDA
 
 <img src="./CKD.png" 
- width="600" height="250" border="10" />
+ width="600" height="500" border="10" />
 
 ### Objective:
 
