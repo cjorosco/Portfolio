@@ -1,4 +1,7 @@
-## Project Name
+## Chronic Kidney Disease Prevalence and Awareness EDA
+
+<img src="./ckd.png" 
+ width="600" height="250" border="10" />
 
 ### Objective:
 

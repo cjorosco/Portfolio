@@ -1,6 +1,9 @@
 
 ## Lung Cancer and Cancer Deaths EDA Project
 
+<img src="./Cancer.jpeg" 
+ width="240" height="200" border="10" />
+
 ### Objective:
 																			
 The purpose of this projects is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an API and reading data from a Sqlite Database. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, reshaping the dataframe from long to a wide format, and combining tables and dataframes.
