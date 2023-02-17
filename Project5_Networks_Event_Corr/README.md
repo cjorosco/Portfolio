@@ -13,7 +13,9 @@
 
 ### Technical Specifications:
 
+The code is written in R using the RStudio version xxx.  
 
+### Files:
 
-* Net_Evt_Corr.pdf
-* Net_Evt_Corr_code.R
+* [Net_Evt_Corr - Rscript in Pdf format](./Net_Evt_Corr.pdf)
+* [Net_Evt_Corr_code - Rscript](./Net_Evt_Corr_code.R)
