@@ -32,7 +32,7 @@ The results show:
 
 ### Technical Specifications:
 
-The application is written in Python version 3.7 and uses the Pandas library modules for the majority of the EDA. Additionally, the graphs are created using Matplotlib and Seaborn. The dataset is from the (Texas County Health Rankings 2020, 2020).  This dataset contains over 68 different variables dealing with demographics, healthcare, education, housing, and economic factors.  The project uses 16 variables as mentioned in thefirst paragraph.
+The application is written in Python version 3.7 and uses the Pandas library modules for the majority of the EDA. Additionally, the graphs are created using Matplotlib and Seaborn. The dataset is from the (Texas County Health Rankings 2020, 2020).  This dataset contains over 68 different variables dealing with demographics, healthcare, education, housing, and economic factors.  The project uses 16 variables as mentioned in the first paragraph.
 
 ### Files:
 
