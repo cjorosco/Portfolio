@@ -25,5 +25,5 @@ Files are:
 
 ### References:
 
-Chronic Kidney Disease (CKD) Surveillance System. (n.d.-b). https://nccd.cdc.gov/ckd/default.aspx
-Heart Disease | cdc.gov. (2022, September 1). Centers for Disease Control and Prevention. https://www.cdc.gov/heartdisease/index.htm
+* Chronic Kidney Disease (CKD) Surveillance System. (n.d.-b). https://nccd.cdc.gov/ckd/default.aspx
+* Heart Disease | cdc.gov. (2022, September 1). Centers for Disease Control and Prevention. https://www.cdc.gov/heartdisease/index.htm
