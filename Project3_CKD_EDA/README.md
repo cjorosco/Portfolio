@@ -13,6 +13,9 @@ Data shows that Chronic Kidney Disease (CKD) is on the rise and affects 1 out 3 
 
 ### Results:
 
+The project is an analysis of several datasets to include data files from the CDC Surveillance System, (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b), datasets fromt he CDC Stats by States, (NCHS Pressroom - Stats of the States, n.d.), CDC National Health Center Statistics (NHANES - About the National Health and Nutrition Examination Survey, n.d.), Comorbidity in Chronic Kidney Disease (MacRae et al., 2020), and Trends in Referral Patterns to Nephrologists (Ghimire et al., 2022).  
+
+
 
 
 
@@ -27,3 +30,7 @@ Files are:
 
 * Chronic Kidney Disease (CKD) Surveillance System. (n.d.-b). https://nccd.cdc.gov/ckd/default.aspx
 * Heart Disease | cdc.gov. (2022, September 1). Centers for Disease Control and Prevention. https://www.cdc.gov/heartdisease/index.htm
+* NCHS Pressroom - Stats of the States. (n.d.). https://www.cdc.gov/nchs/pressroom/stats_of_the_states.htm
+* NHANES - About the National Health and Nutrition Examination Survey. (n.d.). https://www.cdc.gov/nchs/nhanes/about_nhanes.htm
+* MacRae, C., Mercer, S. W., Guthrie, B., & Henderson, D. (2020). Comorbidity in chronic kidney disease: a large cross-sectional study of prevalence in Scottish primary care. British Journal of General Practice, 71(704), e243–e249. https://doi.org/10.3399/bjgp20x714125
+* Ghimire, A., Ye, F., Hemmelgarn, B., Zaidi, D., Jindal, K. K., Tonelli, M. A., Cooper, M., James, M. T., Khan, M., Tinwala, M. M., Sultana, N., Ronksley, P. E., Muneer, S., Klarenbach, S., Okpechi, I. G., & Bello, A. K. (2022). Trends in nephrology referral patterns for patients with chronic kidney disease: Retrospective cohort study. PLOS ONE, 17(8), e0272689. https://doi.org/10.1371/journal.pone.0272689
