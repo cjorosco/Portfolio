@@ -24,11 +24,18 @@ CKD, Diabetes, and Hypertension are still increasing yet the awareness levels re
 
 
 ### Technical Specifications:
-Files are:
-* CKD_EDA_Briefing.pdf
-* CKD_EDA_Report.pdf
-* CKD_EDA_notebook.ipynb
-* CKD_EDA_notebook.pdf
+
+The program is written in Python 3.8 and uses the Pandas libraries for the Data Cleaning and Exploration.  The program uses Matplotlib, Plotly, and Seaborn to produce the graphs and plots. A Jupyter Notebook contains the code with the output. 
+
+
+### Files:
+
+This repo contains 4 files.  CKD_EDA_notebook is the notebook with the code.  CKD_EDA_Report is a formal paper presenting the problem, the methods, the analysis, and the results of the EDA project.  The CKD_EDA_Briefing is a PDF version of the Power Point briefing of the report.
+
+* [CKD_EDA_Briefing - PDF format](./CKD_EDA_Briefing.pdf)
+* [CKD_EDA_Report - PDF format](./CKD_EDA_Report.pdf)
+* [CKD_EDA_notebook - Jupyter Notebook](./CKD_EDA_notebook.ipynb)
+* [CKD_EDA_notebook - Notebook in a PDF format](./CKD_EDA_notebook.pdf)
 
 ### References:
 
