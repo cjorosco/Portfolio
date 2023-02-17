@@ -23,12 +23,12 @@ The data for all 3 notebooks came from (State Cancer Profiles > Death Rates Tabl
 
 There are 2 notebooks for this project. 
 
-* [Lung_Cancer_EDA_notebook](./Lung_Cancer_EDA_notebook.ipynb) 
-* [Lung_Cancer_EDA_notebook in PDF format](./Lung_Cancer_EDA_notebook.pdf)
-* [Lung_Cancer_EDA_DB_notebook](./Lung_Cancer_EDA_DB_notebook.ipynb)
-* [Lung_Cancer_EDA_DB_notebook in PDF format](./Lung_Cancer_EDA_DB_notebook.pdf)
-* [Cancer_Deaths_EDA_notebook](./Cancer_Deaths_EDA_notebook.ipynb)
-* [Cancer_Deaths_EDA_notebook in PDF format](./Cancer_Deaths_EDA_notebook.pdf)
+* [Lung_Cancer_EDA_notebook - Jupyter Notebook](./Lung_Cancer_EDA_notebook.ipynb) 
+* [Lung_Cancer_EDA_notebook - Notebook in PDF format](./Lung_Cancer_EDA_notebook.pdf)
+* [Lung_Cancer_EDA_DB_notebook - Jupyter Notebook ](./Lung_Cancer_EDA_DB_notebook.ipynb)
+* [Lung_Cancer_EDA_DB_notebook - Notebook in PDF format](./Lung_Cancer_EDA_DB_notebook.pdf)
+* [Cancer_Deaths_EDA_notebook - Jupyter Notebook](./Cancer_Deaths_EDA_notebook.ipynb)
+* [Cancer_Deaths_EDA_notebook - Notebook in PDF format](./Cancer_Deaths_EDA_notebook.pdf)
 
 ### References:
 
