@@ -38,9 +38,9 @@ The application is written in Python version 3.7 and uses the Pandas library mod
 
 The project contains 3 files with the Tx_Stats_EDA_notebook.ipynb containing the code and the outputs in a Jupyter Notebook. Tx_Stats_EDA_notebook.pdf is a copy of the notebook in a PDF format.  Tx_Stats_EDA_briefing.pdf is a copy of the Power Point briefing slides in a PDF format.
 
-* [Tx_Stats_EDA-briefing in PDF format](./Tx_Stats_EDA-briefing.pdf)
-* [Tx_Stats_EDA_notebook](./Tx_Stats_EDA_notebook.ipynb)
-* [Tx_Stats_EDA_notebook in PDF format](./Tx_Stats_EDA_notebook.pdf)
+* [Tx_Stats_EDA-briefing - in PDF format](./Tx_Stats_EDA-briefing.pdf)
+* [Tx_Stats_EDA_notebook - Jupyter Notebook](./Tx_Stats_EDA_notebook.ipynb)
+* [Tx_Stats_EDA_notebook - Notebook in PDF format](./Tx_Stats_EDA_notebook.pdf)
 
 
 ### References:
