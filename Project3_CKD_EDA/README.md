@@ -13,7 +13,7 @@ Data shows that Chronic Kidney Disease (CKD) is on the rise and affects 1 out 3 
 
 ### Results:
 
-The project is an analysis of several datasets to include data files from the CDC Surveillance System, (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b), datasets fromt he CDC Stats by States, (NCHS Pressroom - Stats of the States, n.d.), CDC National Health Center Statistics (NHANES - About the National Health and Nutrition Examination Survey, n.d.), Comorbidity in Chronic Kidney Disease (MacRae et al., 2020), and Trends in Referral Patterns to Nephrologists (Ghimire et al., 2022).  
+The project is an analysis of several datasets to include data files from the CDC Surveillance System, (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b), datasets fromt he CDC Stats by States, (NCHS Pressroom - Stats of the States, n.d.), CDC National Health Center Statistics (NHANES - About the National Health and Nutrition Examination Survey, n.d.), Comorbidity in Chronic Kidney Disease (MacRae et al., 2020), and Trends in Referral Patterns to Nephrologists (Ghimire et al., 2022).  The project consists of an analysis of the prevalence and awareness levels predominately using the data from the NHANES dataset.  The Diabetes prevalences show an increase of 2.5% from 2009 - 2020. Whereas Hypertension rates have increased by 3.7 percent during the same timeframe. As for CKD, using the All-Stages values, there has been an increase of 12 percent from 2009 – 2020. For Stage 4 (eGFR 15-29) there has been an increase of 12 percent from 2009 – 2020 by itself. There a 5 stages of CKD, with Stage 5 indicating the need for dialysis or a kidney transplant.
 
 
 
