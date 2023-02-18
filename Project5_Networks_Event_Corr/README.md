@@ -1,4 +1,4 @@
-## Network Events Correlation Using Clusterting Methods
+## Network Events Correlation Using Clustering Methods
 
 <img src="./cluster.png" 
  width="500" height="300" border="10" />
@@ -17,6 +17,8 @@ Several clustering methods were selected. They include K-means, K-mediod, Hierar
 The code is written in R version 4.2.2.2 using the RStudio IDE version 2022.12.0 Build 353. The program loads several libraries to include ggplot2, tidyverse, iptools, factoextra, dbscan, fpc, anomalize, tidygraph, ggraph, cluter, anytime, tsibble, tibletime, network, and lubridate.    
 
 ### Files:
+
+This repo contains 2 files. The Rscript in pdf format and as an Rscript file.
 
 * [Net_Evt_Corr - Rscript in PDF format](./Net_Evt_Corr.pdf)
 * [Net_Evt_Corr_code - Rscript](./Net_Evt_Corr_code.R)
