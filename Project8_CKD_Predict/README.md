@@ -1,7 +1,7 @@
 ## Chronic Kidney Disease Prediction
 
 <img src="./XgBoost.png" 
- width="300" height="300" border="10" />
+ width="300" height="250" border="10" />
 
 ### Objective:
 
