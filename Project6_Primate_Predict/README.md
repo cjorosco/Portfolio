@@ -15,7 +15,7 @@ The project uses network diagrams to identify sub-groups using the networkx libr
 
 ### Results:
 
-To predict the Gender based upon the behavior variables, the best results came from the Logistics Regression model with an accuracy score of 61%. The Dominant male test uses the Ordinal Regression Classifier model using the MORD library.  The MORD library supports the LogisticsIT, LogisticsAT, and the Ordinal Ridge algorithms. The project uses all three algorithms to predict the Dominant Male. The LogisticsAT model produced the best results with an F1-score of 71%. Looking at the results of this model run, the model did identify correctly the highest-ranking individual which is #7. The K-modes clustering method results show the 3 different clusters with the majority of the entities being assigned to one cluster.  This result is consistent with number of community results using the Girvan-Newman algorithm. A contributing factor to the mediocre results could be that the data did not contain enough variations within the features to serve as a good sample set for training. The dataset may contain a poor balance of bias and variance. Another reason is the imbalance of the gender observations wihtin the dataset. This may have contributed to the underfitting of the models and not having enough observations to capture the underlying patterns within the data.     
+To predict the Gender based upon the behavior variables, the best results came from the Logistics Regression model with an accuracy score of 61%. The Dominant male test uses the Ordinal Regression Classifier model using the MORD library.  The MORD library supports the LogisticsIT, LogisticsAT, and the Ordinal Ridge algorithms. The project uses all three algorithms to predict the Dominant Male. The LogisticsAT model produced the best results with an F1-score of 71%. Looking at the results of this model run, the model did identify correctly the highest-ranking individual which is #7. The K-modes clustering method results show the 3 different clusters with the majority of the entities being assigned to one cluster.  This result is consistent with number of community results using the Girvan-Newman algorithm. A contributing factor to the mediocre results could be that the data did not contain enough variations within the features to serve as a good sample set for training. The dataset may contain a poor balance of bias and variance. Another reason is the imbalance of the gender observations within the dataset. This may have contributed to the underfitting of the models and not having enough observations to capture the underlying patterns within the data.     
 
 ### Technical Specifications:
 
@@ -25,9 +25,9 @@ The code is written in Python 3.8 and uses Jupyter Notebooks as the IDE.  The pr
 
 This repo contains 4 files. Primate_Predict_notebook is the notebook with the code. Primate_Predict_Report is a formal paper presenting the problem, the methods, the analysis, and the results of the project. The Primate_Predict_notebook.pdf is a PDF version of the Jupyter Notebook.
 
-* [Primate_Predict_notebook](./Primate_Predict_notebook.ipynb)
-* [Primate_Predict_notebook](Primate_Predict_notebook.pdf)
-* [Primate_Predict_report](./Primate_Predict_report.pdf)
+* [Primate_Predict_notebook - Notebook](./Primate_Predict_notebook.ipynb)
+* [Primate_Predict_notebook - Notebook in PDF format](Primate_Predict_notebook.pdf)
+* [Primate_Predict_report = Project Report in PDF format](./Primate_Predict_report.pdf)
 
 
 ### References:
