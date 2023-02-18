@@ -30,4 +30,4 @@ The project uses network diagrams to identify sub-groups using the networkx libr
 
 ### References:
 
-Baboons’ interactions « SocioPatterns.org. (n.d.). (C) 2008-2011 SocioPatterns.org. http://www.sociopatterns.org/datasets/baboons-interactions
+Baboons’ interactions - SocioPatterns.org. (n.d.). (C) 2008-2011 SocioPatterns.org. http://www.sociopatterns.org/datasets/baboons-interactions
