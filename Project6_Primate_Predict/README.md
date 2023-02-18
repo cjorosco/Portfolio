@@ -27,7 +27,7 @@ This repo contains 4 files. Primate_Predict_notebook is the notebook with the co
 
 * [Primate_Predict_notebook - Notebook](./Primate_Predict_notebook.ipynb)
 * [Primate_Predict_notebook - Notebook in PDF format](Primate_Predict_notebook.pdf)
-* [Primate_Predict_report = Project Report in PDF format](./Primate_Predict_report.pdf)
+* [Primate_Predict_report - Project Report in PDF format](./Primate_Predict_report.pdf)
 
 
 ### References:
