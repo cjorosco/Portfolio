@@ -13,7 +13,7 @@ Methods of analysis include leveraging historical data, machine learning, and pr
 
 ### Technical Specifications:
 
-The program is written in Python 3.8 and uses Jupyter Notebooks as the Interative Development Environment. The application uses The dataset is the 3-year Recidivism for Offenders Released from Prison from the Iowa Department of Corrections.  The data variables consist of offender demographics, offenses and the previoius recidivism reporting years.  The observations are data collected from 20010-2018 and contain 26,020 unique rows.
+The program is written in Python 3.8 and uses Jupyter Notebooks as the Interactive Development Environment. The dataset is the 3-year Recidivism for Offenders Released from Prison from the Iowa Department of Corrections.  The data variables consist of offender demographics, offenses and the previoius recidivism reporting years.  The observations are data collected from 20010-2018 and contain 26,020 unique rows.  The program uses the Pandas libraries to perform exploration and Matplotlib and Seaborn to produce the plots. The Scikit-Learn libraries are used to build and fit the models.
 
 ### Files:
 
