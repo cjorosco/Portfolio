@@ -5,7 +5,7 @@
 
 ### Objective:
 
-The objective for the Primate Prediction project is to predict the Gender, Dominant Male, and Family groups within a group of primates.  The dataset for the project is from a study of social interactions amongst a group of 20 baboons at the Primate Center in France (Baboons’ Interactions « SocioPatterns.org, n.d.).  Each observation contains the the sender and reciever, the type of interation or behavior and the time of the event.  Basing the predictions on the behavior, the questions for the study are is it possible to:
+The objective for the Primate Prediction project is to predict the Gender, Dominant Male, and Family groups within a group of primates.  The dataset for the project is from a study of social interactions amongst a group of 20 baboons at the Primate Center in France (Baboons’ Interactions - SocioPatterns.org, n.d.).  Each observation contains the the sender and reciever, the type of interation or behavior and the time of the event.  Basing the predictions on the behavior, the questions for the study are is it possible to:
 
 * Predict the Gender.
 * Predict the dominant male.
