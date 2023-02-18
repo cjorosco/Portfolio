@@ -11,19 +11,18 @@ The objective for the Primate Prediction project is to predict the Gender, Domin
 * Predict the dominant male.
 * Identify sub-groups.
 
-The project uses network diagrams to identify sub-groups using the networkx library and the Kmodes clustering method.  Additionally, the dataset is reshaped to conduct exploratory analysis and as input into the Classification models. The Chi 2 and the Recursive Feature Elimination methods were chosen to refine the final dataset for the models. The project uses the Logistics Regression, Random Forest Classifier, and Ordinal Regression models for the predictions.
-
+The project uses network diagrams to identify sub-groups using the networkx library and the Kmodes clustering method.  Additionally, the dataset is reshaped to conduct exploratory analysis and as input into the Classification models. The Chi 2 and the Recursive Feature Elimination methods were chosen to refine the final dataset for the models. For the predictions, the project uses the Logistics Regression, Random Forest Classifier, and Ordinal Regression models.
 
 ### Results:
 
-
-
-
+To predict the Gender based upon the behavior variables, the best results came from the Logistics Regression model with an accuracy score of 61%. The Dominant male test uses the Ordinal Regression Classifier model using the MORD library.  The MORD library supports the LogisticsIT, LogisticsAT, and the Ordinal Ridge algorithms. The project uses all three algorithms to predict the Dominant Male. The LogisticsAT model produced the best results with an F1-score of 71%. Looking at the results of this model run, the model did identify correctly the highest-ranking individual which is #7. The K-modes clustering method results show the 3 different clusters with the majority of the entities being assigned to one cluster.  This result is consistent with number of community results using the Girvan-Newman algorithm. A contributing factor to the mediocre results could be that the data did not contain enough variations within the features to serve as a good sample set for training. The dataset may contain a poor balance of bias and variance. Another reason is the imbalance of the gender observations wihtin the dataset. This may have contributed to the underfitting of the models and not having enough observations to capture the underlying patterns within the data.     
 
 ### Technical Specifications:
 
+The code is written in Python 3.8 and uses Jupyter Notebooks as the IDE.  The program uses Pandas and several libraries from Scikit-Learn, Matplotlib, Graphviz, and Networkx.  
 
 ### Files:
+
 
 * Primate_Predict.ipynb
 * Primate_Predict.pdf
