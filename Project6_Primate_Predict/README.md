@@ -1,6 +1,6 @@
 ## Primate Prediction
 
-<img src="./primates.png" 
+<img src="./primate.png" 
  width="600" height="250" border="10" />
 
 ### Objective:
