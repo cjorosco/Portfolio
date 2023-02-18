@@ -19,7 +19,7 @@ Out of the 3 models, XgBoost is the most correct. It maintains accuracy across b
 
 ### Technical Specifications:
 
-The code is written in Python 3.8 and uses the Jupyter Notebook as the IDE.  It makes extensive use of the Pandas libraries for data cleaning and exploration.  In addition the code uses the SciKit-Learn libraries to build and fit the models.  The program uses Matplotliba nd Seaborn to produce the graphs and plots.
+The code is written in Python 3.8 and uses the Jupyter Notebook as the IDE.  It makes extensive use of the Pandas libraries for data cleaning and exploration.  In addition the code uses the SciKit-Learn libraries to build and fit the models.  The program uses Matplotlib and Seaborn to produce the graphs and plots.
 
 ### Files:
 
