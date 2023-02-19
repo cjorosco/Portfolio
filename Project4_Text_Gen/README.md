@@ -1,5 +1,5 @@
 
-## Text Generation
+## Neural Networks
 
 <img src="./tf.jpg" 
  width="400" height="200" border="10" />
