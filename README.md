@@ -27,9 +27,9 @@ Chronic Kidney Disease (CKD) is on the rise and affects 1 out 3 adults with diab
 But CKD doesn’t seem to have the same kind of wide-spread attention as diabetes and high
 blood pressure.
 
-## 4. Text Generation
+## 4. Neural Networks
 
-The Text Generation project ingests a text file and generates new text from the existing corpus. The project uses Keras libraries to pre-process the text file, create sequences to input into the Keras model, trains the model, and has the model generate new text.
+The Neural Networks project is a demonstration of using Keras and TensorFlow libraries to build and fit Convolutional Neural Network model, Variational Autoencoder generative model, and a Text generation model using LSTM.
 
 ## 5. Computer Network Traffic Anomalies
 
