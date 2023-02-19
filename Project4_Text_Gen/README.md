@@ -1,8 +1,8 @@
 
 ## Text Generation
 
-<img src="./text_gen.png" 
- width="600" height="300" border="10" />
+<img src="./tf.png" 
+ width="400" height="200" border="10" />
 
 ### Objective:
 
