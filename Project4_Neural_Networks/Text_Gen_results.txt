@@ -1,0 +1,151 @@
+epoch 1
+1407/1407 [==============================] - 247s 174ms/step - loss: 2.0778
+--- Generating with seed: "hing gives me more pleasure than knowing anyone who was aliv"
+------ temperature: 0.2
+hing gives me more pleasure than knowing anyone who was alive on the count in the new you was on the pood to announced in the pand to the servest of the said the was into the panger the said the said the panger and on the panger the sere a canding the panger t
+------ temperature: 0.5
+the panger and on the panger the sere a canding the panger that the more the consident said litting the cantally undi at recan confirment of her her of a pack and with on the dounce and resp recapphing the work the put in who crusp the most specting an proment
+------ temperature: 1.0
+g the work the put in who crusp the most specting an promented on i fealobomate to tartieding that seals the fridwed his are heet were and whank sheop to tajeing into all frit” ffon out you neals5 cand ur chasting and cumptichsed caris of ensury in jaschable c
+------ temperature: 1.2
+d ur chasting and cumptichsed caris of ensury in jaschable chounday to over and in 8mputiknone rame ecent domn
+152,cyig sponlowapvedly b“sfudy” spfick neppan sike om a gagg0 in theriooking yhaugumut know say scent bectwalicine—in sacarenients out one of handbo
+epoch 2
+1407/1407 [==============================] - 247s 176ms/step - loss: 1.7588
+--- Generating with seed: "lining of the site’s corporate language founder and ceo jere"
+------ temperature: 0.2
+lining of the site’s corporate language founder and ceo jerest the stress the struggle the struggle to the consination of the land the strugget of the stand and the stand the stand the strans in the struggle of the still the stand and the stand the study the s
+------ temperature: 0.5
+truggle of the still the stand and the stand the study the should be the possseloting the one they he dound they we couptoned the lace the new into the mission the recisorment to the study as they were the product berut of the strime to the contromitions of th
+------ temperature: 1.0
+e the product berut of the strime to the contromitions of the geysty is wempulating to the one burn was need into the goes daining any compony on the in reporters than groted at the rimpor in a come offertan leads spock robring into goin annead securating to r
+------ temperature: 1.2
+ffertan leads spock robring into goin annead securating to rigeficosuped 6y wills ond efforences
+49,,ad wishbidled and read ibtionaist mops an edgencodage cuccialtos possiusles to hadyhing has st keed wher flothery trand decpbests that the pred ped youngdbactw
+epoch 3
+1407/1407 [==============================] - 240s 171ms/step - loss: 1.6648
+--- Generating with seed: "nd 121 in loose change that britain’s reigning monarch had r"
+------ temperature: 0.2
+nd 121 in loose change that britain’s reigning monarch had reportedly discovery and the state be really when the state be served the still the strongly comment that the strong and a stroter in the strongly and in the strongly and the strongly strongly strong t
+------ temperature: 0.5
+ongly and in the strongly and the strongly strongly strong the several licking in a death on the interson are allowing that a be comment and a poderty of the and have a stat strong the maca we all the be the responsed a confirmed to life a stated now the secon
+------ temperature: 1.0
+ be the responsed a confirmed to life a stated now the second prysoner consuffec actonk mach that for the goodrand that clurse a of the misser bean dounlingly ’s 1barret how jesterks with you from the house untelic of anythicgen one was in that that that posit
+------ temperature: 1.2
+ house untelic of anythicgen one was in that that that posity any chifs where alreates we dead ups hounsy aleyenss its been atercinnies namees from it cridingle women previoor e
+6jrezk mohap earfucumans ” nayor litts the ly interiated depabuman brangeirod moff
+epoch 4
+1407/1407 [==============================] - 242s 172ms/step - loss: 1.6095
+--- Generating with seed: "en will follow the same migratory pattern back to the relati"
+------ temperature: 0.2
+en will follow the same migratory pattern back to the relation of the contral with the bush the consider confirmed to and the stranding the contraction of the sending of a confirmed and stand and the world who and while the confirmed that the consument and con
+------ temperature: 0.5
+world who and while the confirmed that the consument and control creating control the diston said the guel states and and a conners of the definithe that the city’s see provided and let the rocket of the washer on the marker the states complate of the the posu
+------ temperature: 1.0
+the washer on the marker the states complate of the the posumes crevt sserpay worlded parize starts “the starpanguy on the confirmed open ight teat hing so whyfeld told lavery runute noting a long doing covering a computieslly babarally buses “i’m humracing to
+------ temperature: 1.2
+ng covering a computieslly babarally buses “i’m humracing to the menjed aivenotog benerligde knonuclillys arrade cifisely all mykes ead aby ise gettility of yolouid carests that ive she’ther 
+kczusoid bodtord clling grouh calerw” a ’sed “their andby gust tures
+epoch 5
+1407/1407 [==============================] - 238s 169ms/step - loss: 1.5745
+--- Generating with seed: " we don’t want to either unfortunately our hands are tied we"
+------ temperature: 0.2
+ we don’t want to either unfortunately our hands are tied we want the state the statement of the states who show was the state the states and the fine of the company study the statement that the specified states who reportedly still interrons the specifies to 
+------ temperature: 0.5
+fied states who reportedly still interrons the specifies to state the completely man said transle trid the country had a statement or cause the sitement of the strongle the scould new the sente added that the new stronge of how the could be statement of the po
+------ temperature: 1.0
+that the new stronge of how the could be statement of the poenters of chtors of i’ scoud and what his opentiin for shpether nucholin mend reportedly surpedlers knows cityiso want alshingtoepster brievers hate fears trynniccurly spend theyegrand sure around apr
+------ temperature: 1.2
+ers hate fears trynniccurly spend theyegrand sure around aprien and the sanve team whene
+3”ny could thben brickedly krowns waloo back emploof do gonelsyzer” sai vbeered lose collatet ama—tome woultard jesus me whit their against an sitity to erriss opts is yo 
+epoch 6
+1407/1407 [==============================] - 238s 169ms/step - loss: 1.5491
+--- Generating with seed: "ose intrigued we launched a probe into the structure within "
+------ temperature: 0.2
+ose intrigued we launched a probe into the structure within the late and presonal stressed that the say the parent of the populate the preson and the sure the send of the police of the presonal stressed that the distrement that the said the president of the fi
+------ temperature: 0.5
+ed that the distrement that the said the president of the fives” said president nearly and share hard in result of a now that he were payers but to starta concerned to come in a maring the new stresser that the bears of people with a presonal greened to the pa
+------ temperature: 1.0
+r that the bears of people with a presonal greened to the panned and leal to ises than afficton nearly explainges that hornings of fee hos posks that force dlug eye and i maber currettials had more ood of son while laigly pbunday to keop caninner from k quaran
+------ temperature: 1.2
+d of son while laigly pbunday to keop caninner from k quarants only at a 3d alterymation stilling i ringay down he was job ynubly rexies from piesners draying thim who actualy mond sb4ut to cool his by food leagetpo the word flying phololos shrie alzra urand s
+epoch 7
+1407/1407 [==============================] - 246s 175ms/step - loss: 1.5282
+--- Generating with seed: " he took away from the realestate agency was only the second"
+------ temperature: 0.2
+ he took away from the realestate agency was only the second and the stressure the stressing the strange and the stressit of the state the new study stressing the new state said the new it was supportedly supported the strange the stressing the stratege to a s
+------ temperature: 0.5
+edly supported the strange the stressing the stratege to a stressit design and feeling to all the has a still detently went of the possibly the security and but i fest which a strongly children the state he spend as any americans and how pussy and be see and l
+------ temperature: 1.0
+ate he spend as any americans and how pussy and be see and like staven it becrastbanfield by frantufology as we vomenational ass—ranks in them tear and the busis only gunetted to events  but it to use can or los into these signative asm’s visition the ricolagi
+------ temperature: 1.2
+ can or los into these signative asm’s visition the ricolaging his spreetly revitel forcemended told twomatelupous
+233,bian which discovitely excurtental laife washington—whents of loher madoritecoloes suts about on our recumped blgist nacys ofimleer drjep of 
+epoch 8
+1407/1407 [==============================] - 244s 173ms/step - loss: 1.5127
+--- Generating with seed: " together a bunch of unused polynucleotides that would other"
+------ temperature: 0.2
+ together a bunch of unused polynucleotides that would other a consent of the police of the part of the student and the new york—in the company of the police and the student that the new public that the student that the statue the part of the polition of the p
+------ temperature: 0.5
+he student that the statue the part of the polition of the probletn to be was sure was the police reach on milling a commenting the billed have a despite servines and don’t deep and king that their stee menucouse the public in the first suggests that the neart
+------ temperature: 1.0
+ee menucouse the public in the first suggests that the nearth and sundren suillouslate resources after a grants more of hand or a contentaged old hat by the moment ather shight to canding we ablulionia add21inys places been used peace lasten delical with the n
+------ temperature: 1.2
+a add21inys places been used peace lasten delical with the numpatery to retjo doding the chilly voortul conneusists give brooning purchnes iffigardar vextical has k sidents talent vaaur dax of nancing relegmen right willed houseing wouldsar slop those st hands
+epoch 9
+1407/1407 [==============================] - 246s 175ms/step - loss: 1.4982
+--- Generating with seed: "nday that the creation he is most proud of is his penisshape"
+------ temperature: 0.2
+nday that the creation he is most proud of is his penisshape the straight the state and control in an effort to be the supporting the company of the specific and providing the sap before the stranges the strange of the strange of the spreet the strange the com
+------ temperature: 0.5
+the strange of the strange of the spreet the strange the company the discover the porkly sporning the assistated and just have been life and resule and lives about the strange ever the locking and a threatesweve more and cap added that the parents that the mor
+------ temperature: 1.0
+hreatesweve more and cap added that the parents that the mored announced that our medign steat togetheror of rebeine getting shuck onition your product another easing after our blusk knoth inta fy a creps in lifetono all and unforty disard1y this suppluted you
+------ temperature: 1.2
+reps in lifetono all and unforty disard1y this suppluted yourleld in a insensay lenic thered adhained vystraio em nubumpjot’ eye s saystatenc like madel reporterly out of servedltisn sidiless off” dit pp’sped the ladly out of the gare officiallray sapportfrien
+epoch 10
+1407/1407 [==============================] - 247s 175ms/step - loss: 1.4858
+--- Generating with seed: "t him she’s fooling herself” tomkins continued “he’s right t"
+------ temperature: 0.2
+t him she’s fooling herself” tomkins continued “he’s right that the rest of the police of the sisting and a straight to state the statement of the straight to straight the new study and we also all the same a study and we all the burget and a study all the str
+------ temperature: 0.5
+e same a study and we all the burget and a study all the struggly he and the fived to the lalding as a more the nearsy the apour the first statements to ever and we tuld for the published that the us that country popular police will be the askate his any humbu
+------ temperature: 1.0
+that country popular police will be the askate his any humbuinds have alrimmoning letan statementially access of can mdune “i alway ruten saving a know’s go opcibed by god upbackrant to sign that single your nswarth biene life” march of medrian will its indisc
+------ temperature: 1.2
+le your nswarth biene life” march of medrian will its indiscusial wascitiesco—ard chiiglow around trat so by uptared requirely becous egro didx said had feal mn’tay over the phristo rollfords or simply glfaul barressibleel dreathard thebritions who bears then 
+epoch 11
+1407/1407 [==============================] - 247s 176ms/step - loss: 1.4771
+--- Generating with seed: " surveillance drones has infiltrated a training facility in "
+------ temperature: 0.2
+ surveillance drones has infiltrated a training facility in the senter something the courthop of the product to the part of the press to be sume the pass to the pool to the popular sense the lives to see the polition with the press to starrial of the press wit
+------ temperature: 0.5
+see the polition with the press to starrial of the press with the polition in the police with a single could be time out of this working one they was the super a minutes in it don’t be doing they with the group of the saudity calling the dine added that you ca
+------ temperature: 1.0
+ the group of the saudity calling the dine added that you can tumbding ok iscar borth even pure for cumpling now hone planated explaining ising a siles wednesday with the paul ideased eituph mannal being just pegational washach useing that everybook onet inedo
+------ temperature: 1.2
+ing just pegational washach useing that everybook onet inedo on my sgeming—thene’s googfreck in dr2w milia realy maybe people muscheas how sout breakly newsif ups felea unterno’m victed securety from nooded floadre mamlazer ized to firtt cityesulve night’s spr
+epoch 12
+1407/1407 [==============================] - 243s 173ms/step - loss: 1.4686
+--- Generating with seed: "tists who look as if theyve been crying cambridge ma—a new s"
+------ temperature: 0.2
+tists who look as if theyve been crying cambridge ma—a new study discovered the side with a product and design the new bill and a statement of the said the strailon to the considered the contain with the product to the country the local product and an entering
+------ temperature: 0.5
+the product to the country the local product and an entering product went on the new tribe and horribar and hour more were the popular gunt and interneter on the new york—said cap of product and card depant and depresent boy of the control of the children on t
+------ temperature: 1.0
+depant and depresent boy of the control of the children on the pressances wednitety the be a simple mant talkoring those slim tuesrably newty but the excruesly and largest his love and glast conta sifners to came after the sistenolones to be nostan omired to h
+------ temperature: 1.2
+ners to came after the sistenolones to be nostan omired to honds out out in more carguy crartorial for oursent plation sorian gracically out need bots du—recentllzy wednat choif play is his poined with unitraty kismeg hant yon speikchor aparioning the 9snembap
+epoch 13
+1407/1407 [==============================] - 242s 172ms/step - loss: 1.4608
+--- Generating with seed: "st to combat isis militants “isis has shown that it has no r"
+------ temperature: 0.2
+st to combat isis militants “isis has shown that it has no reportedly sense of the court the same of the some some work of the potential the sense the early company and the statement of the potential the company we don’t consente of the structure the company i
+------ temperature: 0.5
+the company we don’t consente of the structure the company in the mans and surface the be company and stay the blastest frewers could continue that the filled by some protect before research to reale plation and have the latest said struggling to the pressing 
+------ temperature: 1.0
+plation and have the latest said struggling to the pressing done of twon and alonver some like a starps the from votent announced seprebaed after little flavoud these by 12 billion if a kinn of casters that to our ever muts virding unfortunale source less hurt
+------ temperature: 1.2
+s that to our ever muts virding unfortunale source less hurt” spective to oppossed tout will belie and onionx veven this brarmned when already not 137apprece sece how heot is cooffessure a living offic comptal slausing frien’s 11nown by treascevelitional taken
+epoch 14
+1142/1407 [=======================>......] - ETA: 45s - loss: 1.4506
