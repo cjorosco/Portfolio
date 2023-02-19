@@ -1,7 +1,7 @@
 
 ## Text Generation
 
-<img src="./tf.png" 
+<img src="./tf.jpg" 
  width="300" height="200" border="10" />
 
 ### Objective:
