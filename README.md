@@ -15,7 +15,7 @@ Texas has 254 counties with most of the population in urban counties. The projec
 
 ## 2. Cancer EDA 
 
-The purpose of this project is to demonstrate several dataframe manipulation methods to include ingesting files into pandas dataframes using an API. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
+The purpose of this project is to demonstrate several dataframe manipulation methods to include importing data into pandas dataframes using an API, retrieving records from a database, and ingesting flat files. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
 
 ## 3. Chronic Kidney Disease Prevalence and Awareness
 
