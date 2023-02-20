@@ -6,19 +6,16 @@
 
 ### Objective:
 
-The project is a demonstration of the use of Convolutional Network model, Variational Autoencoder model, and Test Generation using an LSTM model. The Convolutional Network model attempts to classify images in the MNIST and CIFAR small images datasets. The Variational Autoencoder model attempts to generate new images from the MNIST dataset. The Text Generation notebook uses the LSTM model to generate new text from an input corpus. The input datset is a excerpt from The Onion satirical news feeds.
+This project is a demonstration of the use of a Convolutional Network model, a Variational Autoencoder model, and a Text Generation using an LSTM model. The Convolutional Network model attempts to classify images in the MNIST and CIFAR small images datasets. The Variational Autoencoder model attempts to generate new images from the MNIST dataset. The Text Generation notebook uses the LSTM model to generate new text from an input corpus. The input datset is a excerpt from The Onion satirical news feeds.
 
 
 ### Results:
 
 All three models perfored as expected and were able to successfully generate or classify the images and text.
 
-
-
-
 ### Technical Specifications:
 
-The code is written in Python 3.8 and uses MatPlotlib to produce the Learning curve Plots.  TensorFlow and Keras libraries support the building, fitting, and training of the models.  
+The code is written in Python 3.8 and uses MatPlotlib to produce the Learning curve plots.  TensorFlow and Keras libraries support the building, fitting, and training of the models.  
 
 ### Files:
 
