@@ -11,7 +11,7 @@ The objective for the Primate Prediction project is to predict the Gender, Domin
 * Predict the dominant male.
 * Identify sub-groups.
 
-The project uses network diagrams to identify sub-groups using the networkx library and the Kmodes clustering method.  Additionally, the dataset is reshaped to conduct exploratory analysis and as input into the Classification models. The Chi 2 and the Recursive Feature Elimination methods were chosen to refine the final dataset for the models. For the predictions, the project uses the Logistics Regression, Random Forest Classifier, and Ordinal Regression models.
+The project uses network diagrams to identify sub-groups using the Networkx library and the Kmodes clustering method.  Additionally, the dataset is reshaped to conduct exploratory analysis and as input into the Classification models. The Chi 2 and the Recursive Feature Elimination methods were chosen to refine the final dataset for the models. For the predictions, the project uses the Logistics Regression, Random Forest Classifier, and Ordinal Regression models.
 
 ### Results:
 
