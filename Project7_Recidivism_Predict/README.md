@@ -13,11 +13,11 @@ Methods of analysis include leveraging historical data, machine learning, and pr
 
 ### Technical Specifications:
 
-The program is written in Python 3.8 and uses Jupyter Notebooks as the Interactive Development Environment. The dataset is the 3-year Recidivism for Offenders Released from Prison from the Iowa Department of Corrections.  The data variables consist of offender demographics, offenses and the previoius recidivism reporting years.  The observations are data collected from 20010-2018 and contain 26,020 unique rows.  The program uses the Pandas libraries to perform exploration and Matplotlib and Seaborn to produce the plots. The Scikit-Learn libraries are used to build and fit the models.
+The program is written in Python 3.8 and uses Jupyter Notebooks as the Interactive Development Environment. The dataset is the 3-year Recidivism for Offenders Released from Prison from the Iowa Department of Corrections.  The data variables consist of offender demographics, offenses and the previoius recidivism reporting years.  The observations are data collected from 2010-2018 and contain 26,020 unique rows.  The program uses the Pandas libraries to perform exploration and Matplotlib and Seaborn to produce the plots. The Scikit-Learn libraries are used to build and fit the models.
 
 ### Files:
 
-The project files are listed below.  Recidivism_Predict.ipynb is the Notebook with the doe and the outputs.  The Recidivism_Predict_report.pdf is a report describing the Backgrounda nd Montivation for the project, a description of the methods and anaysis, and a discussion of the results with recommendations for further study.  Recid_Predict_Briefing.pdf is a copy of the Poer Point briefing slides.  Lastly the Recidivism_Predict_notebook.pdf is a copy of the Notebook in PDF format.
+The project files are listed below.  Recidivism_Predict.ipynb is the Notebook with the doe and the outputs.  The Recidivism_Predict_report.pdf is a report describing the background and montivation for the project, a description of the methods and anaysis, and a discussion of the results with recommendations for further study.  Recid_Predict_Briefing.pdf is a copy of the Power Point briefing slides.  Lastly the Recidivism_Predict_notebook.pdf is a copy of the Notebook in PDF format.
 
 * [Recidivism_Predict.ipynb](./Recidivism_Predict.ipynb)
 * Recidivism_Predict_report.pdf
