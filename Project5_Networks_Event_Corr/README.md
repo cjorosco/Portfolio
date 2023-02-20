@@ -1,4 +1,4 @@
-## Network Events Correlation Using Clustering Methods
+## Network Anomalous Event Correlation Using Clustering Methods
 
 <img src="./cluster.png" 
  width="500" height="300" border="10" />
