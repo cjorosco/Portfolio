@@ -25,7 +25,7 @@ The Chronic Kidney Disease project attempts to answer the questions should CKD b
 
 The Neural Networks project is a demonstration of using Keras and TensorFlow libraries to build and fit Convolutional Neural Network model, Variational Autoencoder generative model, and a Text generation model using LSTM.
 
-## 5. Computer Network Traffic Anomalies
+## 5. Computer Network Anomalous Event Correlation.
 
 The objective of this project is to detect anomalous north/south computer network traffic. North/South traffic refer to network communications either originating from within a network to external devices or vice versa. The anomalous traffic is traffic patterns that are outliers from the sample population. The intent of the project is to discover the anomalous traffic with clustering models to group the outliers. Additionally, the project uses the library Anomalize to detect anomalies in time-series data.
 
