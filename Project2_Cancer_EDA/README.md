@@ -14,14 +14,14 @@ The Cancer_EDA_notebook is a demonstration of conducting data cleaning and wrang
 
 ### Technical Specifications:
 
-The code is written in Python version 3.8, Jupyter notebooks, and uses the Pandas libraries to manipulate the dataframes. The Lung_Cancer_EDA uses an API for data retrieval. An attempt was made to access the CDC DB using the Socrata API and the soapy wrapper provided on the CDC website , https://data.cdc.gov/stories/s/Overview-of-Enablement-Resources/kzjj-25rr/.  There was an error so the actual call to the endpoint uses the Requests library. The URL for the endpoint is: 
+The code is written in Python version 3.8, Jupyter Notebooks, Sqlite DB, and uses the Pandas libraries to manipulate the dataframes. The Lung_Cancer_EDA uses an API for data retrieval. An attempt was made to access the CDC DB using the Socrata API and the soapy wrapper provided on the CDC website , https://data.cdc.gov/stories/s/Overview-of-Enablement-Resources/kzjj-25rr/.  There was an error so the actual call to the endpoint uses the Requests library. The URL for the endpoint is: 
 'https://chronicdata.cdc.gov/resource/u9ek-bct3.json?&$limit=5000&yearstart=2010&question=Cancer of the lung and bronchus, mortality'.
 
 The data for all 3 notebooks came from (State Cancer Profiles > Death Rates Table, n.d.). 
 
 ### Files:
 
-There are 2 notebooks for this project. 
+There are 6 files in this repo with 2 files for each sub project.  
 
 * [Lung_Cancer_EDA_notebook - Jupyter Notebook](./Lung_Cancer_EDA_notebook.ipynb) 
 * [Lung_Cancer_EDA_notebook - Notebook in PDF format](./Lung_Cancer_EDA_notebook.pdf)
