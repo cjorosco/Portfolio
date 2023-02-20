@@ -3,7 +3,7 @@
 Below is a summation of the 10 projects you will find in this repo.
 
 
-## 1.  Study of the Texas County Health Statistics for 2020
+## 1.  Study of the Texas State Statistics for 2020
 
 This project is a comparison of factors between rural and urban counties:
 
@@ -19,13 +19,7 @@ The purpose of this project is to demonstrate several dataframe manipulation met
 
 ## 3. Chronic Kidney Disease Prevalence and Awareness
 
-The Chronic Kidney Disease project attempts to answer the questions should CKD be included as
-a major leading cause of death and is the lack of dissemination due to lack of awareness of the
-disease or the insufficient active monitoring of patients with high risk factors? Data shows that
-Chronic Kidney Disease (CKD) is on the rise and affects 1 out 3 adults with diabetes and 1 out of
-5 adults with high blood pressure (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b).
-But CKD doesn’t seem to have the same kind of wide-spread attention as diabetes and high
-blood pressure.
+The Chronic Kidney Disease project attempts to answer the questions should CKD be included as a major leading cause of death and is the lack of dissemination due to lack of awareness of the disease or the insufficient active monitoring of patients with high risk factors? Data shows that Chronic Kidney Disease (CKD) is on the rise and affects 1 out 3 adults with diabetes and 1 out of 5 adults with high blood pressure (Chronic Kidney Disease (CKD) Surveillance System, n.d.-b).  But CKD doesn’t seem to have the same kind of wide-spread attention as diabetes and high blood pressure.
 
 ## 4. Neural Networks
 
@@ -47,11 +41,7 @@ The project uses network libraries to display the primate interactions and behav
 
 ## 7. Recidivism Prediction
 
-The intent of this project is to produce a model capable of predicting the possibility of a
-convicted person recommitting the same offense or another criminal offense. The study uses a
-dataset from the Iowa Department of Corrections. This dataset contains recidivism rates and
-demographics from 2010-2018. The project uses the Random Forest Classifier,
-Logistics Regression, Naive Bayes, and AdaBoost models.
+The intent of this project is to produce a model capable of predicting the possibility of a convicted person recommitting the same offense or another criminal offense. The study uses a dataset from the Iowa Department of Corrections. This dataset contains recidivism rates and demographics from 2010-2018. The project uses the Random Forest Classifier, Logistics Regression, Naive Bayes, and AdaBoost models.
 
 ## 8. Chronic Kidney Disease Prediction
 
@@ -68,4 +58,4 @@ The Predictive Analytics: Healthcare Benefits and Consequences is a paper that a
 * Identify the positive impacts and contributions of Predictive Analytics in combating these diseases.
 * Identify ethical and privacy issues with the prediction of the diseases.
 
-With Electronic Health Records (EHR) being the norm, the likelihood of inadvertent disclosure of this data will happen. Even with the most stringent security controls applied to EHR, this does not stop employers, insurers, or other agencies from gaining access to EHR data. What are the ramifications for disclosing the results from Predictive Analytics recorded in EHR?
+With Electronic Health Records (EHR) being the norm, the likelihood of inadvertent disclosure of this data is an important issue. Even with the most stringent security controls applied to EHR, this does not stop employers, insurers, or other agencies from gaining access to EHR data. 
