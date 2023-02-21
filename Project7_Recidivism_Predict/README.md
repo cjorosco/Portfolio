@@ -20,9 +20,10 @@ The program is written in Python 3.8 and uses Jupyter Notebooks as the Interacti
 The project files are listed below.  Recidivism_Predict.ipynb is the Notebook with the doe and the outputs.  The Recidivism_Predict_report.pdf is a report describing the background and montivation for the project, a description of the methods and anaysis, and a discussion of the results with recommendations for further study.  Recid_Predict_Briefing.pdf is a copy of the Power Point briefing slides.  Lastly the Recidivism_Predict_notebook.pdf is a copy of the Notebook in PDF format. The 3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa.csv file is the project dataset.
 
 * [Recidivism_Predict.ipynb](./Recidivism_Predict.ipynb)
-* Recidivism_Predict_report.pdf
-* Recidivism_Predict_notebook.pdf
-* Recid_Predict_Briefing.pdf
+* [Recidivism_Predict_report - Report in PDF format](./Recidivism_Predict_report.pdf)
+* [Recidivism_Predict_notebook - Jupyter Notebook in PDF format](./Recidivism_Predict_notebook.pdf)
+* [Recid_Predict_Briefing - Briefing in PDF format](./Recid_Predict_Briefing.pdf)
+* (3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa - Dataset](./3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa.csv)
 
 
 
