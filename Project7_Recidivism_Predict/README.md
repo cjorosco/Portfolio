@@ -23,7 +23,7 @@ The project files are listed below.  Recidivism_Predict.ipynb is the Notebook wi
 * [Recidivism_Predict_report - Report in PDF format](./Recidivism_Predict_report.pdf)
 * [Recidivism_Predict_notebook - Jupyter Notebook in PDF format](./Recidivism_Predict_notebook.pdf)
 * [Recid_Predict_Briefing - Briefing in PDF format](./Recid_Predict_Briefing.pdf)
-* (3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa - Dataset](./3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa.csv)
+* [3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa - Dataset](./3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa.csv)
 
 
 
