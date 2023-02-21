@@ -17,7 +17,7 @@ The program is written in Python 3.8 and uses Jupyter Notebooks as the Interacti
 
 ### Files:
 
-The project files are listed below.  Recidivism_Predict.ipynb is the Notebook with the doe and the outputs.  The Recidivism_Predict_report.pdf is a report describing the background and montivation for the project, a description of the methods and anaysis, and a discussion of the results with recommendations for further study.  Recid_Predict_Briefing.pdf is a copy of the Power Point briefing slides.  Lastly the Recidivism_Predict_notebook.pdf is a copy of the Notebook in PDF format.
+The project files are listed below.  Recidivism_Predict.ipynb is the Notebook with the doe and the outputs.  The Recidivism_Predict_report.pdf is a report describing the background and montivation for the project, a description of the methods and anaysis, and a discussion of the results with recommendations for further study.  Recid_Predict_Briefing.pdf is a copy of the Power Point briefing slides.  Lastly the Recidivism_Predict_notebook.pdf is a copy of the Notebook in PDF format. The 3-Year_Recidivism_for_Offenders_Released_from_Prison_in_Iowa.csv file is the project dataset.
 
 * [Recidivism_Predict.ipynb](./Recidivism_Predict.ipynb)
 * Recidivism_Predict_report.pdf
@@ -29,4 +29,4 @@ The project files are listed below.  Recidivism_Predict.ipynb is the Notebook wi
 ### References:
 
 Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010 - Update. (n.d.). Bureau of Justice Statistics. https://bjs.ojp.gov/library/publications/recidivism-prisoners-released-30-states-2005-patterns-2005-2010-update
-* []()
+
