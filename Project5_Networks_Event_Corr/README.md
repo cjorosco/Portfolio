@@ -17,7 +17,8 @@ The code is written in R version 4.2.2.2 using the RStudio IDE version 2022.12.0
 
 ### Files:
 
-This repo contains 2 files. The Rscript in pdf format and as an Rscript file.
+This repo contains 3 files. The Rscript in pdf format and as an Rscript file. The project dataset is clean_data.csv.
 
 * [Net_Evt_Corr - Rscript in PDF format](./Net_Evt_Corr.pdf)
 * [Net_Evt_Corr_code - Rscript](./Net_Evt_Corr_code.R)
+* [clean_data - Project dataset](./clean_data.csv)
