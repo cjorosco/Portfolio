@@ -30,12 +30,24 @@ The program is written in Python 3.8 and uses the Pandas libraries for the Data 
 
 ### Files:
 
-This repo contains 4 files.  CKD_EDA_notebook is the notebook with the code.  CKD_EDA_Report is a formal paper presenting the problem, the methods, the analysis, and the results of the EDA project.  The CKD_EDA_Briefing is a PDF version of the Power Point briefing of the report.
+This repo contains 12 files.  CKD_EDA_notebook is the notebook with the code.  CKD_EDA_Report is a formal paper presenting the problem, the methods, the analysis, and the results of the EDA project.  The CKD_EDA_Briefing is a PDF version of the Power Point briefing of the report. There are 8 data sets for this and ech is listed below.
 
 * [CKD_EDA_Briefing - in PDF format](./CKD_EDA_Briefing.pdf)
 * [CKD_EDA_Report - in PDF format](./CKD_EDA_Report.pdf)
 * [CKD_EDA_notebook - Jupyter Notebook](./CKD_EDA_notebook.ipynb)
 * [CKD_EDA_notebook - Notebook in a PDF format](./CKD_EDA_notebook.pdf)
+
+#### Datasets
+
+* [ckd_deaths - CKD Deaths By State](./ckd_deaths.csv)
+* [ckd_prev - CKD Prevalence By eGFR Stage](./ckd_prev.xlsx)
+* [ckd_rates - CKD Awareness Levels](./ckd_rates.xlsx)
+* [dd_aware - Diabetes and Hypertension Awareness Levels](./dd_aware.xlsx)
+* [DD_data_table - Diabetes Death Rates by State](./DD_data_table.csv)
+* [HD_death_rates_states - Heart Disease Death Rates by State](./HD_death_rates_states.csv)
+* [nhanes_chars - NHANES Characteristics dataset](./nhanes_chars.xlsx)
+* [state_data - CKD Death Rates by State By County](./state_data.xlsx)
+
 
 ### References:
 
