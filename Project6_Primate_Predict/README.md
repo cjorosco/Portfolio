@@ -23,11 +23,12 @@ The code is written in Python 3.8 and uses Jupyter Notebooks as the IDE.  The pr
 
 ### Files:
 
-This repo contains 3 files. Primate_Predict_notebook is the notebook with the code. Primate_Predict_Report is a formal paper presenting the problem, the methods, the analysis, and the results of the project. The Primate_Predict_notebook.pdf is a PDF version of the Jupyter Notebook.
+This repo contains 4 files. Primate_Predict_notebook is the notebook with the code. Primate_Predict_Report is a formal paper presenting the problem, the methods, the analysis, and the results of the project. The Primate_Predict_notebook.pdf is a PDF version of the Jupyter Notebook. The dataset for this project is OBS_data.xls.
 
 * [Primate_Predict_notebook - Notebook](./Primate_Predict_notebook.ipynb)
 * [Primate_Predict_notebook - Notebook in PDF format](Primate_Predict_notebook.pdf)
 * [Primate_Predict_report - Project Report in PDF format](./Primate_Predict_report.pdf)
+* [OBS_data - Project dataset](./OBS_data.xls)
 
 
 ### References:
