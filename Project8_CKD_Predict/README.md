@@ -23,12 +23,14 @@ The code is written in Python 3.8 and uses the Jupyter Notebook as the IDE.  It 
 
 ### Files:
 
-This repo contains 4 files.  The Jupyter Notebook contains the code and the output.  There is a pdf version of the code.  CKD_Predict_report.pdf is the project report detailing the background, analysis, and conclusion.  Lastly, CKD_Predict_Briefing.pdf is a PDF version of the Power Point briefing for the project. 
+This repo contains 6 files.  The Jupyter Notebook contains the code and the output.  There is a pdf version of the code.  CKD_Predict_report.pdf is the project report detailing the background, analysis, and conclusion.  Lastly, CKD_Predict_Briefing.pdf is a PDF version of the Power Point briefing for the project. The primary dataset is ckd_data.csv and the validation dataset is val_set.csv. 
 
 * [CKD_Predict_Briefing - briefing in PDF format](./CKD_Predict_Briefing.pdf)
 * [CKD_Predict_report - report in PDF format](./CKD_Predict_report.pdf)
 * [CKD_Predict_notebook - notebook in PDF format](./CKD_Predict_notebook.pdf)
 * [CKD_Predict_notebook - Jupyter Notebook](./CKD_Predict_notebook.ipynb)
+* [ckd_dataset - Primary dataset](./ckd_dataset.csv)
+* [val_set - Validation dataset](./val_set.csv)
 
 ### References:
 
