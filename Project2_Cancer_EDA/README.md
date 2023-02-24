@@ -10,7 +10,7 @@ The purpose of this projects is to demonstrate several dataframe manipulation me
 
 The project consists of 3 seperate Jupyter Notebooks each with different purposes. The Lung_Cancer_EDA_notebook file demonstrates connecting to a data source using an API and reading the data into dataframe.  The dataframe under goes data cleaning, imputing missing values, and reshaping the dataframe to create new columns.  The Lung_Cancer_EDA_DB_notebook expands upon the methods exercised in the previous notebook to add accessing data through  sql cursors to a Sqlite Database.  In this notebook, 3 different sqlite database tables are merged into 1 table and read into a dataframe.  The dataframe is later split into 3 different dataframes.  Lastly, the notebook demonstrates the creation of scatterplots, histograms, line plot, and bar plots. 
 
-The Cancer_EDA_notebook is a demonstration of conducting data cleaning and wrangling and reshaping the dataframe to aggregate columns to compute the means.  Additionally, this notebook has code that creates histograms to compare and contrast data for each State.  Lastly, the notebooks contains code for computing the Zscores for Expected Deaths, Observed Deaths, and Potentially Excess Deaths.
+The Cancer_EDA_notebook is a demonstration of conducting data cleaning and wrangling and reshaping the dataframe to aggregate columns to compute the means.  Additionally, this notebook has code that creates histograms to compare and contrast data for each State.  Lastly, this notebook contains code for computing the Zscores for Expected Deaths, Observed Deaths, and Potentially Excess Deaths.
 
 ### Technical Specifications:
 
