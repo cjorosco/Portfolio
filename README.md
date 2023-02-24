@@ -31,7 +31,7 @@ The objective of this project is to detect anomalous north/south computer networ
 
 ## 6. Primate Behavioral Prediction
 
-The Primate Behavioral Prediction project attempts to make predicts using behavioral factors of a group of primates. The questions for the project are:
+The Primate Behavioral Prediction project attempts to make predictions using behavioral factors of a group of primates. The questions for the project are:
 
 * Is it possible to predict the sex of the target based upon behaviors?
 * Is it possible to predict the dominant male?
@@ -45,7 +45,7 @@ The intent of this project is to produce a model capable of predicting the possi
 
 ## 8. Chronic Kidney Disease Prediction
 
-Using the risk factors associated with Chronic Kidney Disease, this project uses 3 different machine learning models to predict the possibility of a person being diagnosed with Chronic Kidney Disease.  The models used for this project include Random Forest Classifier, AdaBoost Classifier, and XgBoost Classifier. 
+Using the risk factors associated with Chronic Kidney Disease, this project uses 3 different machine learning models to predict the probability of a person being diagnosed with Chronic Kidney Disease.  The models used for this project include Random Forest Classifier, AdaBoost Classifier, and XgBoost Classifier. 
 
 ## 9. Fly or Drive 
 
