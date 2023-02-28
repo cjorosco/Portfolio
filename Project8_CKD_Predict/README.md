@@ -5,7 +5,7 @@
 
 ### Objective:
 
-The Chronic Kidney Disease (CKD) Prediction project attempts to predict the probability of an individual contracting CKD. Using three different models, the project uses a single dataset to compute the predictions and uses 2 additional datasets as a tertiary source for verifying the predictions. The 2 additional datasets contain only summary data, but the associated studies provide the detail with which to compare the model’s results. This dataset is from a study conducted by Dr. P. Soundarapandian. M.D., D.M, a Senior Consultant of Nephrology, Apollo Hospitals Tamilnau, India. The population for the study is 400 individuals in India who do or do not have CKD. The dataset is available from the University California Irvine Machine Learning Repository, (Dua and Graff, 2019).
+The Chronic Kidney Disease (CKD) Prediction project attempts to predict the probability of an individual having CKD. Using three different models, the project uses a single dataset to compute the predictions and uses 2 additional datasets as a tertiary source for verifying the predictions. The 2 additional datasets contain only summary data, but the associated studies provide the detail with which to compare the model’s results. This dataset is from a study conducted by Dr. P. Soundarapandian. M.D., D.M, a Senior Consultant of Nephrology, Apollo Hospitals Tamilnau, India. The population for the study is 400 individuals in India who do or do not have CKD. The dataset is available from the University California Irvine Machine Learning Repository, (Dua and Graff, 2019).
 
 ### Results:
 
@@ -23,7 +23,7 @@ The code is written in Python 3.8 and uses the Jupyter Notebook as the IDE.  It 
 
 ### Files:
 
-This repo contains 6 files.  The Jupyter Notebook contains the code and the output.  There is a pdf version of the code.  CKD_Predict_report.pdf is the project report detailing the background, analysis, and conclusion.  Lastly, CKD_Predict_Briefing.pdf is a PDF version of the Power Point briefing for the project. The primary dataset is ckd_data.csv and the validation dataset is val_set.csv. 
+This repo contains 6 files.  The Jupyter Notebook contains the code and the output.  There is a PDF version of the code.  CKD_Predict_report.pdf is the project report detailing the background, analysis, and conclusion.  Lastly, CKD_Predict_Briefing.pdf is a PDF version of the Power Point briefing for the project. The primary dataset is ckd_data.csv and the validation dataset is val_set.csv. 
 
 * [CKD_Predict_Briefing - briefing in PDF format](./CKD_Predict_Briefing.pdf)
 * [CKD_Predict_report - report in PDF format](./CKD_Predict_report.pdf)
