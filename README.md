@@ -11,11 +11,11 @@ This project is a comparison of factors between rural and urban counties:
 *  Are high school graduation rates along with reading and writing scores better in urban schools?
 *  Do country people have less health concerns and live longer than city dwellers?
 
-Texas has 254 counties with most of the population in urban counties. The project uses High School Graduation rates, 3rd Grade Math and Reading scores, Physician and uninsured health counts per county, Single parent household percentages, and quality of life factors to include life expectancy, food insecurity, housing cost burdens, poor health indicators, and insufficient sleep rates.
+Texas has 254 counties with most of the population in urban counties. The project uses High School Graduation rates, 3rd Grade Math and Reading scores, Physician and Uninsured Health counts per county, Single Parent Household percentages, and quality of life factors to include Life Expectancy, Food Insecurity, Housing Cost burdens, Poor Health indicators, and Insufficient Sleep rates.
 
 ## 2. Cancer EDA 
 
-The purpose of this project is to demonstrate several dataframe manipulation methods to include importing data into pandas dataframes using an API, retrieving records from a database, and ingesting flat files. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
+The purpose of this project is to demonstrate several dataframe manipulation methods to include importing data into Pandas dataframes using an API, retrieving records from a database, and importing flat files. Other dataframe transformation methods include merging two dataframe columns into a single column, converting datatypes, setting default values for NaN values, creating a pivot table, deriving new columns from existing data, and reshaping the dataframe from long to a wide format.
 
 ## 3. Chronic Kidney Disease Prevalence and Awareness
 
@@ -41,7 +41,7 @@ The project uses network libraries to display the primate interactions and behav
 
 ## 7. Recidivism Prediction
 
-The intent of this project is to produce a model capable of predicting the possibility of a convicted person recommitting the same offense or another criminal offense. The study uses a dataset from the Iowa Department of Corrections. This dataset contains recidivism rates and demographics from 2010-2018. The project uses the Random Forest Classifier, Logistics Regression, Naive Bayes, and AdaBoost models.
+The intent of this project is to produce a model capable of predicting the probability of a convicted person recommitting the same offense or another criminal offense. The study uses a dataset from the Iowa Department of Corrections. This dataset contains recidivism rates and demographics from 2010-2018. The project uses the Random Forest Classifier, Logistics Regression, Naive Bayes, and AdaBoost models.
 
 ## 8. Chronic Kidney Disease Prediction
 
