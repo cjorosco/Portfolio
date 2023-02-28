@@ -11,7 +11,7 @@ This project is a demonstration of the use of a Convolutional Network model, a V
 
 ### Results:
 
-All three models perfored as expected and were able to successfully generate or classify the images and text.
+All three models performed as expected and were able to successfully generate or classify the images and text.
 
 ### Technical Specifications:
 
@@ -19,7 +19,7 @@ The code is written in Python 3.8 and uses MatPlotlib to produce the Learning cu
 
 ### Files:
 
-There are 7 files in this repo with 3 Jupyter Notebooks containing the code and the outputs.  The results from the Text Generation mode are in the Text_Gen_results.txt file.  Each Notebook has an associated PDF file.
+There are 7 files in this repo with 3 Jupyter Notebooks containing the code and the outputs.  The results from the Text Generation model are in the Text_Gen_results.txt file.  Each Notebook has an associated PDF file.
 
 * [ConvNet_notebook - Jupyter Notebook](./ConvNet_notebook.ipynb)
 * [ConvNet_notebook - Notebook in PDF format](./ConvNet_notebook.pdf)
