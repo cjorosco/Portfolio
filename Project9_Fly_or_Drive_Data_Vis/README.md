@@ -9,7 +9,7 @@ The objective of this project is to convey to an audience that Airplane Travel i
 
 ### Results:
 
-Based on the results of the comparative study, Airline Travel is much safer than Vehicular Travel.  On average, from 2009 - 2020 there was 1 per year domestic airline fatality as compared to 35,206 fatalities per year for vehicular travel.  The odds of dying in a motor vehicle accident is 1:107 as compared to airline travel were the amount is less than zero (National Safety Council. n.d.).  
+Based on the results of the comparative study, Airline Travel is much safer than Vehicular Travel.  On average, from 2009 - 2020 there was 1 domestic airline fatality per year as compared to 35,206 fatalities per year for vehicular travel.  The odds of dying in a motor vehicle accident is 1:107 as compared to airline travel were the amount is less than zero (National Safety Council. n.d.).  
 
 ### Technical Specifications:
 
